@@ -1,0 +1,37 @@
+#divText{
+width: 600px;
+text-align: justify;
+background-color: gray;
+height: 650px;
+padding: 8px;
+color: white;
+box-shadow: 8px 8px rgb(226, 76, 16);
+}
+h1{
+    padding-left: 200px;
+}
+img{
+
+    width: 400px;
+    height: 500px;
+}
+#Divredo{
+background-color: gold;
+border-radius: 360px;
+height: 500px;
+width: 500px;
+
+padding: 25px;
+margin: auto;
+
+
+}
+#Divredond{
+    background-color: gray;
+ 
+    border-radius: 360px;
+    height: 450px;
+    width: 450px;
+
+
+}

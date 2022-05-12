@@ -1,0 +1,13 @@
+.titulo{ 
+font-size: 22pt;
+padding-left: 100px;
+color: black;
+text-shadow: 1px 1px rgb(98, 255, 0);
+
+}
+
+img{
+    padding-left: 100px;
+width: 300px;
+height: 400px;
+}
